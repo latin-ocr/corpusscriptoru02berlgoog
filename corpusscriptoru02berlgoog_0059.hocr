@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru02berlgoog_0059.png"; bbox 0 0 2798 4898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 82 1483 1105 1913">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 82 1483 1105 1913">
+     <span class='ocr_line' id='line_1_1' title="bbox 82 1483 1061 1600; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 82 1487 373 1599; x_wconf 75' lang='grc' dir='ltr'><em>ΑΝΝΗΣ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 412 1486 576 1597; x_wconf 74' lang='grc' dir='ltr'><em>ΤΗΣ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 607 1483 1061 1600; x_wconf 75' lang='grc' dir='ltr'><em>ΚοΜΝΗΝΗΣ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 284 1747 1105 1913; baseline -0.005 -46"><span class='ocrx_word' id='word_1_4' title='bbox 284 1747 874 1891; x_wconf 44' lang='grc' dir='ltr'><em>ΑΜΕΞΙΑΣ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1100 1903 1105 1913; x_wconf 81' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1404 4898">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1404 4898">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1404 4898; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1404 4898; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
